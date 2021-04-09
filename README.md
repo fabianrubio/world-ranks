@@ -1,8 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# World Rank - Full Application with React + Next.js
 
-## Getting Started
-
-First, run the development server:
+## Features
+- Data sorting, filtering
+- Responsive Layout without any CSS framework
+- Dark/Light Mode
+- Server-side rendering
+- Deploying with Vercel
 
 ```bash
 npm run dev
