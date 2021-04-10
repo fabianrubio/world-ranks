@@ -13,7 +13,7 @@ const Layout = ({ children, title = 'World Ranks' }) => {
       localStorage.getItem('theme')
     );
 
-    setTheme(ocalStorage.getItem('theme'));
+    setTheme(localStorage.getItem('theme'));
   }, []);
 
   const swithTheme = () => {
